@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Waterstone Systems LLC</title>
+    <link href="https://bwatterson0523.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://bwatterson0523.github.io/gh-pages" />
+    <updated>2026-09-04T15:04:53-06:00</updated>
+    <author>
+        <name>Brandon Watterson</name>
+    </author>
+    <id>https://bwatterson0523.github.io/gh-pages</id>
+
+    <entry>
+        <title>Home</title>
+        <author>
+            <name>Brandon Watterson</name>
+        </author>
+        <link href="https://bwatterson0523.github.io/gh-pages/home.html"/>
+        <id>https://bwatterson0523.github.io/gh-pages/home.html</id>
+
+        <updated>2026-09-04T15:04:53-06:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Website Remodel In Progress Life Saftey Testing and Inspections Fire Alarm Systems
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 class="align-center"><strong>Website Remodel In Progress</strong></h1>
+<figure class="post__image"><img loading="lazy"  src="https://bwatterson0523.github.io/gh-pages/media/posts/1/WATER-STONE-SYSTEMS-LARGE.png" alt="Waterstone Systems LLC" width="1536" height="1240" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://bwatterson0523.github.io/gh-pages/media/posts/1/responsive/WATER-STONE-SYSTEMS-LARGE-xs.png 640w ,https://bwatterson0523.github.io/gh-pages/media/posts/1/responsive/WATER-STONE-SYSTEMS-LARGE-sm.png 768w ,https://bwatterson0523.github.io/gh-pages/media/posts/1/responsive/WATER-STONE-SYSTEMS-LARGE-md.png 1024w ,https://bwatterson0523.github.io/gh-pages/media/posts/1/responsive/WATER-STONE-SYSTEMS-LARGE-lg.png 1366w ,https://bwatterson0523.github.io/gh-pages/media/posts/1/responsive/WATER-STONE-SYSTEMS-LARGE-xl.png 1600w ,https://bwatterson0523.github.io/gh-pages/media/posts/1/responsive/WATER-STONE-SYSTEMS-LARGE-2xl.png 1920w"></figure>
+<p>Life Saftey Testing and Inspections</p>
+<ul>
+<li class="align-left">Fire Alarm</li>
+<li class="align-left">Fire Sprinklers</li>
+<li class="align-left">Fire Extinguishers</li>
+<li class="align-left">Backflow Assemblies</li>
+</ul>
+<p>Fire Alarm Systems</p>
+<ul>
+<li>System Design</li>
+<li>Engineering (CAD Drawings)</li>
+<li>Parts Sales (Potter Signaling Systems)</li>
+<li>Cabling &amp; Device Installation</li>
+<li>System Testing and Commissioning</li>
+</ul>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

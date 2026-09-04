@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Waterstone Systems LLC",
+    "description": "",
+    "home_page_url": "https://bwatterson0523.github.io/gh-pages",
+    "feed_url": "https://bwatterson0523.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "icon": "https://bwatterson0523.github.io/gh-pages/media/website/WATER-STONE-SHIELD.png",
+    "author": {
+        "name": "Brandon Watterson"
+    },
+    "items": [
+        {
+            "id": "https://bwatterson0523.github.io/gh-pages/home.html",
+            "url": "https://bwatterson0523.github.io/gh-pages/home.html",
+            "title": "Home",
+            "summary": "Website Remodel In Progress Life Saftey Testing and Inspections Fire Alarm Systems",
+            "content_html": "<h1 class=\"align-center\"><strong>Website Remodel In Progress</strong></h1>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://bwatterson0523.github.io/gh-pages/media/posts/1/WATER-STONE-SYSTEMS-LARGE.png\" alt=\"Waterstone Systems LLC\" width=\"1536\" height=\"1240\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://bwatterson0523.github.io/gh-pages/media/posts/1/responsive/WATER-STONE-SYSTEMS-LARGE-xs.png 640w ,https://bwatterson0523.github.io/gh-pages/media/posts/1/responsive/WATER-STONE-SYSTEMS-LARGE-sm.png 768w ,https://bwatterson0523.github.io/gh-pages/media/posts/1/responsive/WATER-STONE-SYSTEMS-LARGE-md.png 1024w ,https://bwatterson0523.github.io/gh-pages/media/posts/1/responsive/WATER-STONE-SYSTEMS-LARGE-lg.png 1366w ,https://bwatterson0523.github.io/gh-pages/media/posts/1/responsive/WATER-STONE-SYSTEMS-LARGE-xl.png 1600w ,https://bwatterson0523.github.io/gh-pages/media/posts/1/responsive/WATER-STONE-SYSTEMS-LARGE-2xl.png 1920w\"></figure>\n<p>Life Saftey Testing and Inspections</p>\n<ul>\n<li class=\"align-left\">Fire Alarm</li>\n<li class=\"align-left\">Fire Sprinklers</li>\n<li class=\"align-left\">Fire Extinguishers</li>\n<li class=\"align-left\">Backflow Assemblies</li>\n</ul>\n<p>Fire Alarm Systems</p>\n<ul>\n<li>System Design</li>\n<li>Engineering (CAD Drawings)</li>\n<li>Parts Sales (Potter Signaling Systems)</li>\n<li>Cabling &amp; Device Installation</li>\n<li>System Testing and Commissioning</li>\n</ul>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "Brandon Watterson"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-04T15:04:53-06:00",
+            "date_modified": "2026-09-04T15:04:53-06:00"
+        }
+    ]
+}

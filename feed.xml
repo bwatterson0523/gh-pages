@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Waterstone Systems LLC</title>
-    <link href="https://bwatterson0523.github.io/gh-pages/feed.xml" rel="self" />
-    <link href="https://bwatterson0523.github.io/gh-pages" />
+    <link href="https://waterst.one/feed.xml" rel="self" />
+    <link href="https://waterst.one" />
     <updated>2026-09-14T19:27:51-06:00</updated>
     <author>
         <name>Brandon Watterson</name>
     </author>
-    <id>https://bwatterson0523.github.io/gh-pages</id>
+    <id>https://waterst.one</id>
 
     <entry>
         <title>Services</title>
         <author>
             <name>Brandon Watterson</name>
         </author>
-        <link href="https://bwatterson0523.github.io/gh-pages/home.html"/>
-        <id>https://bwatterson0523.github.io/gh-pages/home.html</id>
+        <link href="https://waterst.one/home.html"/>
+        <id>https://waterst.one/home.html</id>
 
         <updated>2026-09-04T15:04:53-06:00</updated>
             <summary type="html">
